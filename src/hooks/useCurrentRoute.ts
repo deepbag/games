@@ -1,6 +1,6 @@
 import { useLocation } from "react-router-dom";
 import { useMemo } from "react";
-import { LABELS, PATHS } from "document/config/path";
+import { LABELS, PATHS } from "../config/path";
 
 interface RouteData {
   label: string;

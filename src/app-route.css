@@ -3,12 +3,11 @@
   flex-direction: column;
   height: 100vh;
   width: 100vw;
-  position: relative;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .rgx-app-route-main-content {
   display: flex;
   flex: 1;
-  margin-top: 87px;
+  position: relative;
 }
